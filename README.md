@@ -27,4 +27,3 @@ I am Varun Reddy, currently pursuing M.Sc.Computer Science at the University of 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=varunreddy95&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunreddy95&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=varunreddy95.varunreddy95)
